@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @withinJoel
-- 👀 I’m interested in web development, A.I and anything thats new in the field. 
+- 👀 I’m interested in web development, A.I and anything that's new in the field. 
 - 🌱 I’m currently learning Js and python.
 - 💞️ I’m looking to collaborate on various exicting projects.
 - 📫 How to reach me instagram: @withinjoel
