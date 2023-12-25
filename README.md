@@ -1,5 +1,5 @@
 # About Me
-* 👋 Hi, I’m @withinJoel
+* 👋 Hi, I’m Joel Jolly
 * 👀 I’m interested in web development, A. I and anything new in the field.
 * 💞️ I’m looking to collaborate on various exciting projects.
 * 📫 So if interested, message me from any social media site.
