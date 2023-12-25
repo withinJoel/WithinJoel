@@ -5,6 +5,9 @@
 * 📫 So if interested, message me from any social media site.
 
 # Website
-Instagram: https://www.instagram.com/withinjoel
-LinkedIn: https://www.linkedin.com/withinjoel
-Snapchat: https://www.snapchat.com/add/withinjoel
+* Instagram: https://instagram.com/withinjoel
+* LinkedIn: https://www.linkedin.com/in/withinjoel/
+* Snapchat: https://www.snapchat.com/add/withinjoel
+* Youtube: https://youtube.com/c/djjoeljolly
+* Threads: https://www.threads.net/@withinjoel
+* Twitter: https://x.com/withinjoel
