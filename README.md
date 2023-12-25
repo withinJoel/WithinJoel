@@ -7,4 +7,4 @@
 # Website
 Instagram: https://www.instagram.com/withinjoel
 LinkedIn: https://www.linkedin.com/withinjoel
-Snapchat: https://www.snapchat.com/withinjoel
+Snapchat: https://www.snapchat.com/add/withinjoel
