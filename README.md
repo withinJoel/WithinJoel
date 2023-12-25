@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @withinJoel
-- 👀 I’m interested in web development, A.I and anything that's new in the field. 
-- 🌱 I’m currently learning Js and python.
-- 💞️ I’m looking to collaborate on various exicting projects.
-- 📫 How to reach me instagram: @withinjoel
+# About Me
+* 👋 Hi, I’m @withinJoel
+* 👀 I’m interested in web development, A. I and anything new in the field.
+* 💞️ I’m looking to collaborate on various exciting projects.
+* 📫 So if interested, message me from any social media site.
 
 # Website
 Instagram: https://www.instagram.com/withinjoel
-<!---
-withinJoel/withinJoel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+LinkedIn: https://www.linkedin.com/withinjoel
+Snapchat: https://www.snapchat.com/withinjoel
