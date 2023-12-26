@@ -8,6 +8,7 @@
 * HTML
 * CSS
 * JS
+* Git & Github
 * PHP
 * Graphic Designing
 * UI Designing
