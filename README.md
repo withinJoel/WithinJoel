@@ -5,7 +5,7 @@
 * 📫 So if interested, Send me a message, and let's build something cool.
 
 <a href="https://github.com/withinJoel">
-  <img src="https://streak-stats.demolab.com?user=withinjoel&theme=github-dark" alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com?user=withinjoel&theme=ayu-light" alt="GitHub Streak">
 </a>
 
 
