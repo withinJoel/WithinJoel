@@ -6,6 +6,7 @@
 
 <a href="https://github.com/withinJoel">
   <img src="https://streak-stats.demolab.com?user=withinjoel&theme=github-light" alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com?user=withinjoel&theme=github-dark" alt="GitHub Streak">
 </a>
 
 
