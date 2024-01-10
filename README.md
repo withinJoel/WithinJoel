@@ -4,7 +4,10 @@
 * 💞️ I’m looking to collaborate on various exciting projects.
 * 📫 So if interested, Send me a message, and let's build something cool.
 
-<img src="https://streak-stats.demolab.com?user=withinjoel&theme=github-dark" alt="GitHub Streak">
+<a href="https://your-custom-link.com">
+  <img src="https://streak-stats.demolab.com?user=withinjoel&theme=github-dark" alt="GitHub Streak">
+</a>
+
 
 # Skills
 * HTML
