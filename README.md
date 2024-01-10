@@ -4,7 +4,7 @@
 * 💞️ I’m looking to collaborate on various exciting projects.
 * 📫 So if interested, Send me a message, and let's build something cool.
 
-![GitHub Streak](https://streak-stats.demolab.com?user=withinjoel&theme=github-dark)
+<img src="https://streak-stats.demolab.com?user=withinjoel&theme=github-dark" alt="GitHub Streak">
 
 # Skills
 * HTML
