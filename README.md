@@ -20,7 +20,6 @@
 
 # Work Experience
 * Internship in IOT at ()
-* Internship in Full Stack Developer at Humblecode ()
 * Freelancing in Full Stack based projects.
 
 # Website
