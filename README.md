@@ -19,10 +19,10 @@
 * UI Designing
 
 # Work Experience
-* Internship in IOT at ()
 * Freelancing in Full Stack based projects.
 
 # Website
+* Portfolio: https://joeljolly.dev.pages.com
 * Portfolio: https://withinjoel.my.canva.site/
 * Instagram: https://instagram.com/withinjoel
 * LinkedIn: https://www.linkedin.com/in/withinjoel/
