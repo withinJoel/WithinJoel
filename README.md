@@ -22,7 +22,7 @@
 * Freelancing in Full Stack based projects.
 
 # Website
-* Portfolio: https://joeljolly.dev.pages.com
+* Website: https://joeljolly.pages.dev.com
 * Portfolio: https://withinjoel.my.canva.site/
 * Instagram: https://instagram.com/withinjoel
 * LinkedIn: https://www.linkedin.com/in/withinjoel/
