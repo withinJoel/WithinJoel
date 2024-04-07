@@ -20,6 +20,7 @@
 
 # Work Experience
 * Freelancing in Full Stack based projects.
+* Freelancing in Graphic Designing.
 
 # Website
 * Website: https://joeljolly.pages.dev
