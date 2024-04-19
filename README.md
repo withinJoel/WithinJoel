@@ -14,6 +14,7 @@
 * CSS
 * JS
 * Git & Github
+* Python
 * PHP
 * Graphic Designing
 * UI Designing
