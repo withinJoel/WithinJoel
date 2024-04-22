@@ -13,6 +13,8 @@
 * HTML
 * CSS
 * JS
+* React.js
+* Typescript
 * Git & Github
 * Python
 * PHP
