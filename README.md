@@ -6,7 +6,7 @@
 
 # Track Record
 <a href="https://github.com/withinJoel">
-  <img src="https://joeljolly.pages.dev" alt="Joel's GitHub Streak">
+  <img src="https://streak-stats.demolab.com?user=withinjoel&theme=github-dark" alt="Joel's GitHub Streak">
 </a>
 
 # Skills
