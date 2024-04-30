@@ -12,7 +12,7 @@
 # My Repo Stats
 <a href="https://github.com/withinJoel">
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=withinjoel&show_icons=true)
-
+</a>
 # Frequently Used Languages
 <a href="https://github.com/withinJoel">
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=withinjoel&layout=compact)
