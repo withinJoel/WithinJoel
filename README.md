@@ -12,7 +12,7 @@
 # My Repo Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=withinjoel&show_icons=true)
 
-# Languages Used
+# Frequently Used Languages
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=withinjoel&theme=blue-green)
 
 # Skills
@@ -44,4 +44,6 @@
 # Support Me
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/withinjoel)
 
+# Visited By
+![Profile View Counter](https://komarev.com/ghpvc/?username=withinjoel)
 # Made with 💖 by Joel Jolly.
