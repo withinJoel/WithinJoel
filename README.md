@@ -13,7 +13,7 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=withinjoel&show_icons=true)
 
 # Frequently Used Languages
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=withinjoel&theme=blue-green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=withinjoel&layout=compact)
 
 # Skills
 * HTML
