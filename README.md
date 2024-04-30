@@ -1,5 +1,5 @@
 # About Me
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=withinjoel&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=withinjoel&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
 * 👋 Hi, I’m Joel Jolly
 * 👀 I’m interested in Web Development and anything new in the field.
 * 💞️ I’m looking to collaborate on various exciting projects.
