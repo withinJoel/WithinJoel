@@ -10,21 +10,20 @@
 </a>
 
 # My Repo Stats
-<a href="https://github.com/withinJoel">
+
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=withinjoel&show_icons=true)
-</a>
+
 # Frequently Used Languages
-<a href="https://github.com/withinJoel">
+
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=withinjoel&layout=compact)
-</a>
+
 # Skills
-<a href="https://github.com/withinJoel">
+
   [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,php,python,html,css,mysql&includeNames=true)]
-</a>
+
 # Frameworks
-<a href="https://github.com/withinJoel">
   [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=react,electron&includeNames=true)]
-</a>
+
 # Work Experience
 * Freelancing in Full Stack based projects.
 * Freelancing in Graphic Designing.
