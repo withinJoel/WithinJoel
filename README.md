@@ -19,10 +19,10 @@
 
 # Skills
 
-  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,php,python,html,css,mysql&includeNames=true)]
+  ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,php,python,html,css,mysql&includeNames=true)
 
 # Frameworks
-  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=react,electron&includeNames=true)]
+  ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=react,electron&includeNames=true)
 
 # Work Experience
 * Freelancing in Full Stack based projects.
