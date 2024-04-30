@@ -17,7 +17,7 @@
 
 # Skills
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,php,python,html,css,mysql)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,php,python,html,css,mysql&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
 
 # Frameworks
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=react,electron)](https://github.com/Jurredr/github-widgetbox)
