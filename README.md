@@ -15,9 +15,6 @@
 # Frequently Used Languages
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=withinjoel&theme=blue-green)
 
-# Contributions
-![Contribution](https://activity-graph.herokuapp.com/graph?username=withinjoel&theme=react-dark&hide_border=true&area=true)
-
 # Skills
 * HTML
 * CSS
