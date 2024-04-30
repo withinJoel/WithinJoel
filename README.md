@@ -4,14 +4,13 @@
 * 💞️ I’m looking to collaborate on various exciting projects.
 * 📫 So if interested, Send me a message, and let's build something cool.
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=withinjoel&show_icons=true)
-
 # Track Record
 <a href="https://github.com/withinJoel">
   <img src="https://streak-stats.demolab.com?user=withinjoel&theme=github-dark" alt="Joel's GitHub Streak">
 </a>
 
 # My Repo Stats
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=withinjoel&show_icons=true)
 
 # Skills
 * HTML
