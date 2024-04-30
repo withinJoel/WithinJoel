@@ -10,10 +10,6 @@
   <img src="https://streak-stats.demolab.com?user=withinjoel&theme=github-dark" alt="Joel's GitHub Streak">
 </a>
 
-# My Repo Stats
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=withinjoel&show_icons=true)
-
 # Frequently Used Languages
 
 <a href="https://github.com/withinjoel"><img alt="Joel's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=withinjoel&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
@@ -27,9 +23,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-# Frameworks
-  ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=react,electron&includeNames=true)
 
 # Work Experience
 * Freelancing in Full Stack based projects.
