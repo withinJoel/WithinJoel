@@ -12,6 +12,9 @@
 # My Repo Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=withinjoel&show_icons=true)
 
+# Languages Used
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=withinjoel&theme=blue-green)
+
 # Skills
 * HTML
 * CSS
