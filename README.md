@@ -32,14 +32,12 @@
 # Website
 * Website: https://joeljolly.pages.dev
 * Website (Old): https://withinjoel.my.canva.site/
-* Instagram: https://instagram.com/withinjoel
-* LinkedIn: https://www.linkedin.com/in/withinjoel/
-* Snapchat: https://www.snapchat.com/add/withinjoel
 * Youtube: https://youtube.com/c/djjoeljolly
 * Threads: https://www.threads.net/@withinjoel
-* Twitter(X): https://x.com/withinjoel
+* Twitter(X): 
 
 <a href="https://www.linkedin.com/in/withinjoel/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://x.com/withinjoel" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="X"></a>
 <a href="https://www.instagram.com/withinjoel/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.snapchat.com/add/withinjoel" target="_blank"><img src="https://img.shields.io/badge/Snapchat-%231877F2.svg?&style=flat-square&logo=snapchat&logoColor=white" alt="Snapchat"></a>
 
