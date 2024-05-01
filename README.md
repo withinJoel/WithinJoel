@@ -29,6 +29,12 @@
 * Freelancing in Full Stack based projects.
 * Freelancing in Graphic Designing.
 
+# Support Me
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/withinjoel)
+
+# Visited By
+![Profile View Counter](https://komarev.com/ghpvc/?username=withinjoel)
+
 # Connect
 * Website: https://joeljolly.pages.dev
 
@@ -39,9 +45,4 @@
 <a href="https://youtube.com/c/djjoeljolly" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
 <a href="https://www.threads.net/@withinjoel" target="_blank"><img src="https://img.shields.io/badge/Threads-%23E4405F.svg?&style=flat-square&logo=threads&logoColor=white" alt="Threads"></a>
 
-# Support Me
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/withinjoel)
-
-# Visited By
-![Profile View Counter](https://komarev.com/ghpvc/?username=withinjoel)
 # Made with 💖 by Joel Jolly.
