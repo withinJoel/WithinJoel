@@ -30,7 +30,7 @@
 
 # Website
 * Website: https://joeljolly.pages.dev
-* Portfolio: https://withinjoel.my.canva.site/
+* Website (Old): https://withinjoel.my.canva.site/
 * Instagram: https://instagram.com/withinjoel
 * LinkedIn: https://www.linkedin.com/in/withinjoel/
 * Snapchat: https://www.snapchat.com/add/withinjoel
