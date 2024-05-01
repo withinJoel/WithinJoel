@@ -39,6 +39,7 @@
 <a href="https://www.instagram.com/withinjoel/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.snapchat.com/add/withinjoel" target="_blank"><img src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?&style=flat-square&logo=snapchat&logoColor=white" alt="Snapchat"></a>
 <a href="https://youtube.com/c/djjoeljolly" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
+<a href="https://www.threads.net/@withinjoel" target="_blank"><img src="https://img.shields.io/badge/Threads-%23E4405F.svg?&style=flat-square&logo=threads&logoColor=white" alt="Threads"></a>
 
 # Support Me
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/withinjoel)
