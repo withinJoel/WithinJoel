@@ -11,9 +11,9 @@
   <img src="https://streak-stats.demolab.com?user=withinjoel&theme=github-dark" alt="Joel's GitHub Streak">
 </a>
 
-# Frequently Used Languages
+# Stats
 
-<a href="https://github.com/withinjoel"><img alt="Joel's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=withinjoel&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="100%"/></a>
+<img src="https://myreadme.vercel.app/api/embed/withinjoel?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 # Skills
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
