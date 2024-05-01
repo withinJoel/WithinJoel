@@ -38,7 +38,7 @@
 # Connect
 
 <a href="https://www.linkedin.com/in/withinjoel/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://x.com/withinjoel" target="_blank"><img src="https://img.shields.io/badge/X-%231877F2.svg?&style=flat-square&logo=X&logoColor=white" alt="X"></a>
+<a href="https://x.com/withinjoel" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=X&logoColor=white" alt="X"></a>
 <a href="https://www.instagram.com/withinjoel/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.snapchat.com/add/withinjoel" target="_blank"><img src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?&style=flat-square&logo=snapchat&logoColor=white" alt="Snapchat"></a>
 <a href="https://youtube.com/c/djjoeljolly" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
