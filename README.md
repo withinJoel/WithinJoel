@@ -12,7 +12,7 @@
 
 # Frequently Used Languages
 
-<a href="https://github.com/withinjoel"><img alt="Joel's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=withinjoel&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+<a href="https://github.com/withinjoel"><img alt="Joel's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=withinjoel&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="60%"/></a>
 
 # Skills
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
