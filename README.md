@@ -13,6 +13,7 @@
 
 # Contribution Chart
 [![WithinJoel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Withinjoel)](https://github.com/withinjoel/github-readme-activity-graph)
+
 # Stats
 <img src="https://myreadme.vercel.app/api/embed/withinjoel?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
