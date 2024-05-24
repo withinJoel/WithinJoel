@@ -11,8 +11,10 @@
   <img src="https://streak-stats.demolab.com?user=withinjoel&theme=github-dark" alt="Joel's GitHub Streak">
 </a>
 
-# Stats
+# Contribution Chart
+[![WithinJoel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Withinjoel&theme=react-dark)](https://github.com/withinjoel/)
 
+# Stats
 <img src="https://myreadme.vercel.app/api/embed/withinjoel?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 # Skills
