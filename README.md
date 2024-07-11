@@ -1,10 +1,11 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=withinjoel&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
 # About Me
 
-* 👋 Hi, I’m Joel Jolly
-* 👀 I’m interested in Web Development and anything new in the field.
-* 💞️ I’m looking to collaborate on various exciting projects.
-* 📫 So if interested, Send me a message, and let's build something cool.
+* 👋 Hi, I’m Joel Jolly!
+
+* 👀 I’m obsessed with Web Development and all the shiny new things that come with it.
+* 💞️ I’m on the hunt for partners in crime to create some awesome projects.
+* 📫 Got an idea? Hit me up! Let’s make the internet a cooler place, one project at a time.
 
 # Track Record
 <a href="https://github.com/withinJoel">
