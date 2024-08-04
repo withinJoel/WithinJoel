@@ -36,20 +36,21 @@
 
 <table>
   <tr>
-    <td><a href="https://example.com/link1"><img src="https://github.com/user-attachments/assets/5ef0b5a6-b047-47c7-8e1e-ba4ab5479609" alt="Evelina" style="max-width: 150px; max-height: 150px;"/></a></td>
-    <td><a href="https://example.com/link2"><img src="https://github.com/user-attachments/assets/8e018895-cc38-49ea-9b14-e16ff804791c" alt="Quiz ai" style="max-width: 150px; max-height: 150px;"/></a></td>
-    <td><a href="https://example.com/link3"><img src="https://github.com/user-attachments/assets/ea9dc972-07f9-4346-9e40-583f08b1ec43" alt="Astrology ai" style="max-width: 150px; max-height: 150px;"/></a></td>
+    <td><a href="https://example.com/link1"><img src="https://github.com/user-attachments/assets/5ef0b5a6-b047-47c7-8e1e-ba4ab5479609" alt="Evelina" style="max-width: 150px; max-height: 150px; width: auto; height: auto;"/></a></td>
+    <td><a href="https://example.com/link2"><img src="https://github.com/user-attachments/assets/8e018895-cc38-49ea-9b14-e16ff804791c" alt="Quiz ai" style="max-width: 150px; max-height: 150px; width: auto; height: auto;"/></a></td>
+    <td><a href="https://example.com/link3"><img src="https://github.com/user-attachments/assets/ea9dc972-07f9-4346-9e40-583f08b1ec43" alt="Astrology ai" style="max-width: 150px; max-height: 150px; width: auto; height: auto;"/></a></td>
   </tr>
   <tr>
-    <td><a href="https://example.com/link4"><img src="https://github.com/user-attachments/assets/8264e34d-edb7-47dc-bdc8-75fb94366dbe" alt="StarMash" style="max-width: 150px; max-height: 150px;"/></a></td>
-    <td><a href="https://example.com/link5"><img src="https://github.com/user-attachments/assets/c149407c-d98f-4b04-8cfb-a6ef4b9e565d" alt="TradeCraft" style="max-width: 150px; max-height: 150px;"/></a></td>
-    <td><a href="https://example.com/link6"><img src="https://github.com/user-attachments/assets/a03215b5-8631-4883-bca6-3e814f94cb67" alt="Avicii" style="max-width: 150px; max-height: 150px;"/></a></td>
+    <td><a href="https://example.com/link4"><img src="https://github.com/user-attachments/assets/8264e34d-edb7-47dc-bdc8-75fb94366dbe" alt="StarMash" style="max-width: 150px; max-height: 150px; width: auto; height: auto;"/></a></td>
+    <td><a href="https://example.com/link5"><img src="https://github.com/user-attachments/assets/c149407c-d98f-4b04-8cfb-a6ef4b9e565d" alt="TradeCraft" style="max-width: 150px; max-height: 150px; width: auto; height: auto;"/></a></td>
+    <td><a href="https://example.com/link6"><img src="https://github.com/user-attachments/assets/a03215b5-8631-4883-bca6-3e814f94cb67" alt="Avicii" style="max-width: 150px; max-height: 150px; width: auto; height: auto;"/></a></td>
   </tr>
   <tr>
-    <td><a href="https://example.com/link7"><img src="https://github.com/user-attachments/assets/cd597cc0-e081-4cae-8994-084ee2b648b8" alt="Elsa" style="max-width: 150px; max-height: 150px;"/></a></td>
-    <td><a href="https://example.com/link8"><img src="https://github.com/user-attachments/assets/cb961721-a5c2-4f64-be7c-a50bc82e15dc" alt="Code Cracker" style="max-width: 150px; max-height: 150px;"/></a></td>
+    <td><a href="https://example.com/link7"><img src="https://github.com/user-attachments/assets/cd597cc0-e081-4cae-8994-084ee2b648b8" alt="Elsa" style="max-width: 150px; max-height: 150px; width: auto; height: auto;"/></a></td>
+    <td><a href="https://example.com/link8"><img src="https://github.com/user-attachments/assets/cb961721-a5c2-4f64-be7c-a50bc82e15dc" alt="Code Cracker" style="max-width: 150px; max-height: 150px; width: auto; height: auto;"/></a></td>
   </tr>
 </table>
+
 
 # Support Me
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/withinjoel)
