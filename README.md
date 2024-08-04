@@ -34,6 +34,19 @@
 
 # My Trending Sites
 
+| [![Evelina](https://github.com/user-attachments/assets/5ef0b5a6-b047-47c7-8e1e-ba4ab5479609)](https://example.com/link1) | [![Quiz ai](https://github.com/user-attachments/assets/8e018895-cc38-49ea-9b14-e16ff804791c)](https://example.com/link2) | [![Astrology ai](https://github.com/user-attachments/assets/ea9dc972-07f9-4346-9e40-583f08b1ec43)](https://example.com/link3) |
+|:---:|:---:|:---:|
+| [Evelina](https://example.com/link1) | [Quiz ai](https://example.com/link2) | [Astrology ai](https://example.com/link3) |
+
+| [![StarMash](https://github.com/user-attachments/assets/8264e34d-edb7-47dc-bdc8-75fb94366dbe)](https://example.com/link4) | [![TradeCraft](https://github.com/user-attachments/assets/c149407c-d98f-4b04-8cfb-a6ef4b9e565d)](https://example.com/link5) | [![Avicii](https://github.com/user-attachments/assets/a03215b5-8631-4883-bca6-3e814f94cb67)](https://example.com/link6) |
+|:---:|:---:|:---:|
+| [StarMash](https://example.com/link4) | [TradeCraft](https://example.com/link5) | [Avicii](https://example.com/link6) |
+
+| [![Elsa](https://github.com/user-attachments/assets/cd597cc0-e081-4cae-8994-084ee2b648b8)](https://example.com/link7) | [![Code Cracker](https://github.com/user-attachments/assets/cb961721-a5c2-4f64-be7c-a50bc82e15dc)](https://example.com/link8) |
+|:---:|:---:|
+| [Elsa](https://example.com/link7) | [Code Cracker](https://example.com/link8) |
+
+
 # Support Me
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/withinjoel)
 
