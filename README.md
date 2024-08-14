@@ -37,6 +37,7 @@
   <source src="https://withinjoelunwrapped.pages.dev/?year=2023" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+[Watch this video](https://withinjoelunwrapped.pages.dev/?year=2023)
 
 # Support Me
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/withinjoel)
