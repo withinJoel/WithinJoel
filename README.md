@@ -32,6 +32,9 @@
 * Freelancing in Full Stack based projects.
 * Freelancing in Graphic Designing.
 
+# Coding Time
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=withinjoel)](https://github.com/anuraghazra/github-readme-stats)
+
 # Support Me
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/withinjoel)
 
