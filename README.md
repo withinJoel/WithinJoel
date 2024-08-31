@@ -15,9 +15,6 @@
 # Contribution Chart
 [![WithinJoel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Withinjoel&theme=react-dark)](https://github.com/withinjoel/)
 
-# Stats
-<img src="https://myreadme.vercel.app/api/embed/withinjoel?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-
 # Skills
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
