@@ -30,13 +30,9 @@
 * `Freelance Graphic Designer:` Providing specialized design services with a focus on creating visually compelling and effective graphics.
 
 # Support Me
-[![Sponsor withinJoel](https://img.shields.io/badge/Sponsor-withinJoel-brightgreen?style=for-the-badge&logo=github)](https://github.com/sponsors/withinJoel)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/withinjoel)
 
-[Sponsor withinJoel](https://github.com/sponsors/withinJoel)
-<div style="display: inline-block; margin: 10px;">
-    <iframe src="https://github.com/sponsors/withinJoel/button" title="Sponsor withinJoel" height="32" width="114" style="border: 0; border-radius: 6px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); cursor: pointer; transition: transform 0.3s;">
-    </iframe>
-</div>
+[![Sponsor withinJoel](https://img.shields.io/badge/Sponsor-withinJoel-brightgreen?style=for-the-badge&logo=github)](https://github.com/sponsors/withinJoel)
 
 # Visited By
 ![Profile View Counter](https://komarev.com/ghpvc/?username=withinjoel)
