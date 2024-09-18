@@ -30,7 +30,7 @@
 * `Freelance Graphic Designer:` Providing specialized design services with a focus on creating visually compelling and effective graphics.
 
 # Support Me
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/withinjoel)
+[![Sponsor withinJoel](https://img.shields.io/badge/Sponsor-withinJoel-brightgreen?style=for-the-badge&logo=github)](https://github.com/sponsors/withinJoel)
 
 [Sponsor withinJoel](https://github.com/sponsors/withinJoel)
 <div style="display: inline-block; margin: 10px;">
