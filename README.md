@@ -26,8 +26,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 # Work Experience
-* Freelancing in Full Stack based projects.
-* Freelancing in Graphic Designing.
+* `Freelance Full Stack Developer`: Engaged in various projects involving comprehensive development across multiple technologies and platforms.
+* `Freelance Graphic Designer`: Providing specialized design services with a focus on creating visually compelling and effective graphics.
 
 # Support Me
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/withinjoel)
