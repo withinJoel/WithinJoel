@@ -2,7 +2,6 @@
 # About Me
 
 * 👋 Hi, I’m Joel Jolly!
-
 * 👀 I’m obsessed with Web Development and all the shiny new things that come with it.
 * 💞️ I’m on the hunt for partners in crime to create some awesome projects.
 * 📫 Got an idea? Hit me up! Let’s make the internet a cooler place, one project at a time.
