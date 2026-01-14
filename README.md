@@ -68,12 +68,12 @@ withinJoel](https://img.shields.io/badge/Sponsor-withinJoel-brightgreen?style=fo
 
 # Connect
 
-`<a href="https://www.linkedin.com/in/withinjoel/" target="_blank">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">`{=html}`</a>`{=html}
-`<a href="https://x.com/withinjoel" target="_blank">`{=html}`<img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=X&logoColor=white" alt="X">`{=html}`</a>`{=html}
-`<a href="https://www.instagram.com/withinjoel/" target="_blank">`{=html}`<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">`{=html}`</a>`{=html}
-`<a href="https://www.snapchat.com/add/withinjoel" target="_blank">`{=html}`<img src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?&style=flat-square&logo=snapchat&logoColor=white" alt="Snapchat">`{=html}`</a>`{=html}
-`<a href="https://youtube.com/c/djjoeljolly" target="_blank">`{=html}`<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white" alt="YouTube">`{=html}`</a>`{=html}
-`<a href="https://www.threads.net/@withinjoel" target="_blank">`{=html}`<img src="https://img.shields.io/badge/Threads-%23E4405F.svg?&style=flat-square&logo=threads&logoColor=white" alt="Threads">`{=html}`</a>`{=html}
-`<a href="https://joeljolly.pages.dev" target="_blank">`{=html}`<img src="https://img.shields.io/badge/Portfolio-%231877F2.svg?&style=flat-square&logoColor=white" alt="My Portfolio">`{=html}`</a>`{=html}
+<a href="https://www.linkedin.com/in/withinjoel/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://x.com/withinjoel" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=X&logoColor=white" alt="X"></a>
+<a href="https://www.instagram.com/withinjoel/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.snapchat.com/add/withinjoel" target="_blank"><img src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?&style=flat-square&logo=snapchat&logoColor=white" alt="Snapchat"></a>
+<a href="https://youtube.com/c/djjoeljolly" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
+<a href="https://www.threads.net/@withinjoel" target="_blank"><img src="https://img.shields.io/badge/Threads-%23E4405F.svg?&style=flat-square&logo=threads&logoColor=white" alt="Threads"></a>
+<a href="https://joeljolly.pages.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%231877F2.svg?&style=flat-square&logoColor=white" alt="My Portfolio"></a>
 
 # Made with 💖 by Joel Jolly.
