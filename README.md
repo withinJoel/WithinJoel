@@ -1,11 +1,7 @@
 [![GitHub
 WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=withinjoel&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
-\# About Me
-
--   I am Joel Jolly. And right now, you're on the verge of something
-    unforgettable. The mission? To craft a digital world that'll make
-    your heart race, your pulse quicken, and your mind wander... what's
-    next?
+# About Me
+-   I am Joel Jolly. And right now, you're on the verge of something unforgettable. The mission? To craft a digital world that'll make your heart race, your pulse quicken, and your mind wander... what's next?
 -   I don't just build websites; I create worlds. Each line of code,
     every pixel. It's more than just design. It's like a love letter to
     the web. And you... you might just be the one who decodes it.
@@ -28,18 +24,15 @@ WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=withinjoel&d
     beautiful digital storm. ✨
 
 # Track Record
-
 `<a href="https://github.com/withinJoel">`{=html}
 `<img src="https://streak-stats.demolab.com?user=withinjoel&theme=github-dark" alt="Joel's GitHub Streak">`{=html}
 `</a>`{=html}
 
 # Contribution Chart
-
 [![WithinJoel's github activity
 graph](https://github-readme-activity-graph.vercel.app/graph?username=Withinjoel&theme=react-dark)](https://github.com/withinjoel/)
 
 # Skills
-
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![PHP](https://img.shields.io/badge/php-F05032?style=for-the-badge&logo=php&logoColor=white)
@@ -68,6 +61,7 @@ withinJoel](https://img.shields.io/badge/Sponsor-withinJoel-brightgreen?style=fo
 
 # Connect
 
+<a href="https://gitlab.com/withinjoel" target="_blank"><img src="https://img.shields.io/badge/GitLab-%23FC6D26.svg?&style=flat-square&logo=gitlab&logoColor=white" alt="GitLab"></a>
 <a href="https://www.linkedin.com/in/withinjoel/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://x.com/withinjoel" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=X&logoColor=white" alt="X"></a>
 <a href="https://www.instagram.com/withinjoel/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
