@@ -23,11 +23,6 @@ WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=withinjoel&d
     maybe we were destined to cross paths in the middle of this chaotic,
     beautiful digital storm. ✨
 
-# Track Record
-<a href="https://github.com/withinJoel">
-  <img src="https://streak-stats.demolab.com?user=withinjoel&theme=github-dark" alt="Joel's GitHub Streak">
-</a>
-
 # Contribution Chart
 [![WithinJoel's github activity
 graph](https://github-readme-activity-graph.vercel.app/graph?username=Withinjoel&theme=react-dark)](https://github.com/withinjoel/)
