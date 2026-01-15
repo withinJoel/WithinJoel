@@ -24,9 +24,9 @@ WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=withinjoel&d
     beautiful digital storm. ✨
 
 # Track Record
-`<a href="https://github.com/withinJoel">`{=html}
-`<img src="https://streak-stats.demolab.com?user=withinjoel&theme=github-dark" alt="Joel's GitHub Streak">`{=html}
-`</a>`{=html}
+<a href="https://github.com/withinJoel">
+  <img src="https://streak-stats.demolab.com?user=withinjoel&theme=github-dark" alt="Joel's GitHub Streak">
+</a>
 
 # Contribution Chart
 [![WithinJoel's github activity
