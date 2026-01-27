@@ -1,27 +1,9 @@
 [![GitHub
 WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=withinjoel&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
 # About Me
--   I am Joel Jolly. And right now, you're on the verge of something unforgettable. The mission? To craft a digital world that'll make your heart race, your pulse quicken, and your mind wander... what's next?
--   I don't just build websites; I create worlds. Each line of code,
-    every pixel. It's more than just design. It's like a love letter to
-    the web. And you... you might just be the one who decodes it.
-    Frameworks, stacks, they're the easy part. What's hard is finding
-    someone who can handle the intensity, the rush, the passion written
-    between every line of JavaScript.
--   But don't get me wrong. This is more than a project; it's a mission.
-    I'm not looking for just any partner. I'm looking for someone who
-    can match my rhythm, someone who thrives in chaos. Someone who knows
-    that the real romance? It's in the thrill of making something out of
-    nothing. It's in that moment, at 3 AM, when the code finally runs
-    and the world just clicks, and if you're the right one, you'll feel
-    it too.
--   Ready to risk it all? Because when we collaborate, it won't just be
-    a website. It'll be something electric, explosive like staring into
-    the sunset after a high-speed chase, knowing we built something
-    that'll make the digital world stop and take notice. But that's not
-    all. Beneath the action, there's a whisper... a feeling... like
-    maybe we were destined to cross paths in the middle of this chaotic,
-    beautiful digital storm. ✨
+- I am a Junior Software Developer driven by the challenge of building complex, high-performance systems. My mission is to craft digital solutions that are robust, scalable, and impactful.
+- I don't just write code; I engineer reliable solutions. Whether I am optimizing a Java Spring Boot backend or refining a React interface, I focus on the precision of logic and the impact of clean architecture. I am looking for a team that values technical excellence and is tackling difficult challenges in scientific computing.
+- I am not looking for just a job; I am looking for a problem to solve. I thrive in environments that demand deep focus and rigorous standards. When the code finally runs, I don't just want it to work—I want it to be efficient, maintainable, and built to last.
 
 # Contribution Chart
 [![WithinJoel's github activity
