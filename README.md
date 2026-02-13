@@ -22,7 +22,7 @@ graph](https://github-readme-activity-graph.vercel.app/graph?username=Withinjoel
 # Work Experience
 
 **Junior Software Developer:** Currently working full-time at DCIS
-(August 2024 -- Present).
+(August 2024 -- Febuary 2026).
 
 # Support Me
 
