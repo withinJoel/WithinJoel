@@ -19,10 +19,6 @@ graph](https://github-readme-activity-graph.vercel.app/graph?username=Withinjoel
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-# Work Experience
-
-**Junior Software Developer** - DCIS (August 2024 - Febuary 2026).
-
 # Support Me
 
 [![Buy Me a
