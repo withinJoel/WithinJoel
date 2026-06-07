@@ -11,7 +11,7 @@ graph](https://github-readme-activity-graph.vercel.app/graph?username=Withinjoel
 
 # Current Focus
 
-* Building production-grade software with Java, Spring Boot, React, and modern web technologies.
+* Building production-grade software with Java, Spring Boot, Node.js, and modern web technologies.
 * Designing scalable backend systems and APIs.
 * Contributing to open-source projects and developer tools.
 * Exploring distributed systems, scientific computing, and high-performance applications.
