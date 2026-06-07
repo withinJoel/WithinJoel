@@ -9,34 +9,74 @@ WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=withinjoel&d
 [![WithinJoel's github activity
 graph](https://github-readme-activity-graph.vercel.app/graph?username=Withinjoel&theme=react-dark)](https://github.com/withinjoel/)
 
-# Skills
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
-![PHP](https://img.shields.io/badge/php-F05032?style=for-the-badge&logo=php&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+# Current Focus
 
-# Support Me
+* Building production-grade software with Java, Spring Boot, React, and modern web technologies.
+* Designing scalable backend systems and APIs.
+* Contributing to open-source projects and developer tools.
+* Exploring distributed systems, scientific computing, and high-performance applications.
 
-[![Buy Me a
-Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/withinjoel)
+# Featured Projects
 
-[![Sponsor
-withinJoel](https://img.shields.io/badge/Sponsor-withinJoel-brightgreen?style=for-the-badge&logo=github)](https://github.com/sponsors/withinJoel)
+## Joanium
 
-# Visited By
+An AI-powered platform focused on practical developer productivity and automation.
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=withinjoel)
+**Highlights**
+
+* Full-stack architecture
+* AI integration
+* Modern web technologies
+* Open-source development
+
+* Repository: https://github.com/joanium/joanium
+* Webiste: https://www.joanium.com
+* 
+---
+
+## Portfolio Website
+
+Personal portfolio showcasing projects, technical experience, and open-source work.
+
+**Tech Stack**
+
+* React
+* TypeScript
+* Modern UI architecture
+
+🔗 https://joeljolly.vercel.app
+
+---
+
+## Open Source
+
+I actively build and maintain open-source software focused on developer experience, automation, and practical engineering solutions.
+
+GitHub Profile:
+https://github.com/withinjoel
+
+# Engineering Philosophy
+
+I enjoy solving difficult problems through careful design, clean architecture, and maintainable code.
+
+My interests include:
+
+* Backend Engineering
+* Distributed Systems
+* Scientific Computing
+* Software Architecture
+* Developer Tooling
+* Open Source
+
+# Education
+
+**B.Tech Information Technology**
+CSI College of Engineering, Ooty
+2020 – 2024
 
 # Connect
 
-<a href="https://joeljolly.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%231877F2.svg?&style=flat-square&logoColor=white" alt="My Portfolio"></a>
-<a href="https://gitlab.com/withinjoel" target="_blank"><img src="https://img.shields.io/badge/GitLab-%23FC6D26.svg?&style=flat-square&logo=gitlab&logoColor=white" alt="GitLab"></a>
-<a href="https://www.linkedin.com/in/withinjoel/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://x.com/withinjoel" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=X&logoColor=white" alt="X"></a>
-<a href="https://youtube.com/c/djjoeljolly" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
-
-# Made with 💖 by Joel Jolly.
+* Portfolio: https://joeljolly.vercel.app
+* LinkedIn: https://www.linkedin.com/in/withinjoel
+* GitHub: https://github.com/withinjoel
+* GitLab: https://gitlab.com/withinjoel
