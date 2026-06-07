@@ -31,7 +31,6 @@ An AI-powered platform focused on practical developer productivity and automatio
 
 * Repository: https://github.com/joanium/joanium
 * Webiste: https://www.joanium.com
-* 
 ---
 
 ## Portfolio Website
