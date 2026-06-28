@@ -28,7 +28,6 @@ An AI-powered platform focused on practical developer productivity and automatio
 * AI integration
 * Modern web technologies
 * Open-source development
-
 * Repository: https://github.com/joanium/joanium
 * Webiste: https://www.joanium.com
 ---
