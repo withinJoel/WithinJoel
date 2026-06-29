@@ -50,9 +50,6 @@ Personal portfolio showcasing projects, technical experience, and open-source wo
 
 I actively build and maintain open-source software focused on developer experience, automation, and practical engineering solutions.
 
-GitHub Profile:
-https://github.com/withinjoel
-
 # Engineering Philosophy
 
 I enjoy solving difficult problems through careful design, clean architecture, and maintainable code.
