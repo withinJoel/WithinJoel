@@ -1,5 +1,3 @@
-[![GitHub
-WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=withinjoel&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
 # About Me
 - I am a Software Developer driven by the challenge of building complex, high-performance systems. My mission is to craft digital solutions that are robust, scalable, and impactful.
 - I don't just write code; I engineer reliable solutions. Whether I am optimizing a Java Spring Boot backend or refining a React interface, I focus on the precision of logic and the impact of clean architecture. I am looking for a team that values technical excellence and is tackling difficult challenges in scientific computing.
