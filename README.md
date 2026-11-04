@@ -5,7 +5,7 @@
 
 # Current Focus
 
-* Building production-grade software with Java, Spring Boot, Node.js, and modern web technologies.
+* Building production-grade software with Java, Spring Boot, Python, Node.js, and modern web technologies.
 * Designing scalable backend systems and APIs.
 * Contributing to open-source projects and developer tools.
 * Exploring distributed systems, scientific computing, and high-performance applications.
@@ -24,20 +24,6 @@ An AI-powered platform focused on practical developer productivity and automatio
 * Open-source development
 * Repository: https://github.com/joanium/joanium
 * Webiste: https://www.joanium.com
----
-
-## Portfolio Website
-
-Personal portfolio showcasing projects, technical experience, and open-source work.
-
-**Tech Stack**
-
-* React
-* TypeScript
-* Modern UI architecture
-
-🔗 https://joeljolly.vercel.app
-
 ---
 
 ## Open Source
